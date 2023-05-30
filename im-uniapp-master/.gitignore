@@ -1,0 +1,8 @@
+/.hbuilderx/
+/node_modules/
+/unpackage/dist/
+/package-lock.json
+/unpackage/release/
+/unpackage/cache/
+/json/
+/unpackage/debug/
